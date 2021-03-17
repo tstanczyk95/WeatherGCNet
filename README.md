@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Data
 Download the required datasets:
-*   Danish dataset, from [here](https://drive.google.com/drive/folders/1dqtmmfyKg5X2aCa2W8pBvPCrxE7Tc974?usp=sharing) (input timestep (time lag) 30, derived from the dataset from [here](https://drive.google.com/drive/folders/1dqtmmfyKg5X2aCa2W8pBvPCrxE7Tc974?usp=sharing)),
+*   Danish dataset, from [here](https://drive.google.com/drive/folders/1dqtmmfyKg5X2aCa2W8pBvPCrxE7Tc974?usp=sharing) (input timestep (time lag) 30, derived from the dataset from [here](https://sites.google.com/view/siamak-mehrkanoon/code-data)),
 *   Dutch dataset, from [here](https://github.com/HansBambel/multidim_conv) (`Wind_data_NL`).
 
 ## Usage
