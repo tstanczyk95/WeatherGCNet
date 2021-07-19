@@ -1,5 +1,7 @@
 # WeatherGCNet
 
+Implementation code for WeatherGCNet.
+
 <p align="center"><img src="readme_images/data_processing.png" width="600"\></p>
 <p align="center"><img src="readme_images/proposed_model.png" width="600"\></p>
 
