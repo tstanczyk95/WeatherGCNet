@@ -1,6 +1,6 @@
 # WeatherGCNet
 
-Implementation code for the paper: "Deep Graph Convolutional Networks for Wind Speed Prediction" [[LINK](https://www.esann.org/sites/default/files/proceedings/2021/ES2021-25.pdf)].
+Implementation code for the paper: "Deep Graph Convolutional Networks for Wind Speed Prediction" [[LINK](https://doi.org/10.14428/esann/2021.ES2021-25)].
 
 <p align="center"><img src="readme_images/data_processing.png" width="600"\></p>
 <p align="center"><img src="readme_images/proposed_model.png" width="600"\></p>
