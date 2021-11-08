@@ -47,10 +47,10 @@ Analogously, summary with test MAE and MSE of the tested model will be provided 
 
 ## Citation
 ```
-@article{stanczyk2021weathergcnet,
+@inproceedings{gcn_t,
   title={Deep Graph Convolutional Networks for Wind Speed Prediction},
-  author={Stańczyk, Tomasz and Mehrkanoon, Siamak},
-  journal={European Symposium on Artificial Neural Networks (ESANN)}
-  url={https://doi.org/10.14428/esann/2021.ES2021-25}
+  author={Tomasz Stanczyk and Siamak Mehrkanoon},
+  booktitle={European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)},
+  pages={147--152},
   year={2021}
 }
