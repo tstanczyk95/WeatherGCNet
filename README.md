@@ -43,7 +43,7 @@ For more information about the usage, type:
 ```
 python test_model.py --help
 ```
-Analogously, summary with test MAE and MSE of the tested model will be provided at the end of the run.
+Analogously, summary with test MAE and MSE of the tested model will be provided at the end of the run
 
 ## Citation
 ```
